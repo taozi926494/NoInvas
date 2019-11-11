@@ -1,0 +1,4 @@
+[
+  "test_execute.py::test_execute_python_str",
+  "test_execute.py::test_execute_from_db"
+]

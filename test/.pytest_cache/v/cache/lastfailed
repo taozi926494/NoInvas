@@ -1,0 +1,4 @@
+{
+  "execute_test.py::ExecuteTest::test_execute_python_str": true,
+  "test_execute.py::test_execute_from_db": true
+}
